@@ -2,3 +2,4 @@
 <name>Nastya</name>
 <age>25</age>
 <city>Dzr</city>
+<age>25</age>
